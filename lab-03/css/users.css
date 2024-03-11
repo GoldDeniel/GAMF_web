@@ -1,0 +1,19 @@
+.no-margin {
+    margin: 0px;
+
+}
+.font-big {
+    font-size: 1.5rem;
+}
+
+.bg-light {
+    background-color: blanchedalmond;
+}
+
+.color-primary {
+    color: rgb(0, 0, 255)
+}
+
+.inline {
+    display: inline;
+}
